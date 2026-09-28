@@ -1,0 +1,16 @@
+name: foundry-ci
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+jobs:
+  kernel:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r kernel/requirements.txt
+      - run: python -c "import ast,pathlib; ast.parse(pathlib.Path('kernel/app.py').read_text())"
