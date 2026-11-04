@@ -1,0 +1,2819 @@
+[
+ {
+  "name": "aan-autonomous-agent-network",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 1,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "ai-agent-platform",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Shell",
+  "size": 12,
+  "desc": "Production AI agent with LangChain & RAG. 2K+ daily conversations, 87% accuracy",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "ai-business-automation-tree",
+  "tier": "CODE",
+  "private": false,
+  "lang": "Python",
+  "size": 163,
+  "desc": "Hierarchical AI Business Automation System - Tree-structured architecture for seamless platform integration and unprecedented automation capabilities",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "ai-business-platform",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 106,
+  "desc": "Enterprise AI Business Automation Platform - Billion-Dollar Scale Architecture",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "ai-co-founder",
+  "tier": "CODE",
+  "private": true,
+  "lang": "TypeScript",
+  "size": 228,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "ai-consulting-automaton",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 3,
+  "desc": "Fully automated AI consulting service delivering $10K-50K projects autonomously. Automated discovery, scoping, proposal generation, technical delivery, client communication. Zero human intervention required.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "ai-control",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 0,
+  "desc": "",
+  "updated": "2026-11-04"
+ },
+ {
+  "name": "ai-infrastructure-architect-master",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 19,
+  "desc": "Living infrastructure brain: Self-explaining, self-repairing, and self-upgrading agent swarm system for continuous infrastructure evolution",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "ai-ops-studio",
+  "tier": "STUB",
+  "private": false,
+  "lang": "TypeScript",
+  "size": 46,
+  "desc": "Enterprise AI Ops Studio - Multi-agent workflow automation platform with LangGraph orchestration, Temporal workflows, and comprehensive observability",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "ai-orchestrator",
+  "tier": "CASH",
+  "private": false,
+  "lang": "Python",
+  "size": 49,
+  "desc": "Garcar AI Orchestrator \u2014 DFW revenue loop: intake \u2192 checkout LLA-47 \u2192 CRM \u2192 fulfill",
+  "updated": "2026-10-15"
+ },
+ {
+  "name": "ai-powered-deal-desk",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 89,
+  "desc": "Auto-generates sales proposals with pricing optimization - $18K/month",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "ai-sales-engine",
+  "tier": "CODE",
+  "private": true,
+  "lang": "TypeScript",
+  "size": 72860,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "ai-swarm-crypto-bounty-system",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 21,
+  "desc": "Advanced AI agent swarm architecture for cryptocurrency bounty hunting and automated income generation with hierarchical task execution",
+  "updated": "2026-10-03"
+ },
+ {
+  "name": "ai-training-data-factory",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 2,
+  "desc": "Automated training data generation, synthetic data creation, smart labeling, quality assurance, bias detection. Generate production-ready datasets 100x faster at 1/10th the cost.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "ai-wealth-ecosystem",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 45,
+  "desc": "Autonomous AI Wealth Generation Ecosystem",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "all-in-one-auto-acquisition-system",
+  "tier": "CASH",
+  "private": true,
+  "lang": "Python",
+  "size": 217,
+  "desc": "Comprehensive auto acquisition system with multi-source data collection, lead generation, content aggregation, and compliance framework",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "APEX-AI-ENGINE",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 65,
+  "desc": "APEX: Autonomous Profit & Enterprise eXecution Engine \u2014 Garcar Enterprise's flagship multi-agent AI commerce system",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "apex-revenue-system",
+  "tier": "CODE",
+  "private": false,
+  "lang": "Python",
+  "size": 555,
+  "desc": "Autonomous AI Revenue System \u2014 auto-deploys to Railway via GitHub Actions",
+  "updated": "2026-10-23"
+ },
+ {
+  "name": "APEX-Universal-AI-Operating-System",
+  "tier": "CODE",
+  "private": false,
+  "lang": "Python",
+  "size": 336,
+  "desc": "\ud83d\ude80 THE ULTIMATE: Universal AI Operating System orchestrating ALL 26 repositories. Self-evolving superintelligence with quantum-neural fusion, autonomous revenue generation $10M+/year, zero-human oversight. 5x larger codebase than competitors combined.",
+  "updated": "2026-10-03"
+ },
+ {
+  "name": "apex-zero-human-orchestrator",
+  "tier": "CONTROL",
+  "private": false,
+  "lang": "Python",
+  "size": 21,
+  "desc": "Apex Zero-Human Grid Orchestrator \u2014 autonomous product factory + quantum revenue engine with human governance gates. Production-ready, no mocks.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "api-key-automaton",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 29,
+  "desc": "AI-powered intelligent credential management with autonomous allocation and rotation",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "ARCHITECT_Pro-Enterprise",
+  "tier": "CODE",
+  "private": false,
+  "lang": "Python",
+  "size": 4011,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "assets-library-2025",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 4,
+  "desc": "Comprehensive assets library - images, icons, fonts, media, and design resources with organized categorization",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "async-automation-framework",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Shell",
+  "size": 61,
+  "desc": "End-to-end asynchronous automation framework with self-healing capabilities, auto-recovery, and professional documentation.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "async-automation-workflows",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 34,
+  "desc": "Enterprise async automation with self-healing & auto-recovery. 3,663 lines of production documentation. 88K revenue automation.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "asynchronous-automation-framework",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 71,
+  "desc": "Complete Asynchronous Automation Framework (Phases 1-4) including Revenue Agent, Auto-Recovery, DAG Workflows, and Event-Driven ML Optimization.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "atlas-agents",
+  "tier": "CASH",
+  "private": false,
+  "lang": "Python",
+  "size": 54,
+  "desc": "ATLAS - Autonomous Transaction & Lead Automation System | CrewAI Multi-Agent Engine | Garcar Enterprise",
+  "updated": "2026-10-24"
+ },
+ {
+  "name": "atlas-dashboard",
+  "tier": "CASH",
+  "private": false,
+  "lang": "TypeScript",
+  "size": 129,
+  "desc": "ATLAS - Next.js 14 Admin Dashboard | Lead Pipeline + Revenue Analytics | Garcar Enterprise",
+  "updated": "2026-10-03"
+ },
+ {
+  "name": "atlas-infrastructure",
+  "tier": "STUB",
+  "private": false,
+  "lang": null,
+  "size": 15,
+  "desc": "ATLAS - Docker, Railway, GitHub Actions CI/CD Pipeline | Garcar Enterprise",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "atlas-integrations",
+  "tier": "CASH",
+  "private": false,
+  "lang": "Python",
+  "size": 9,
+  "desc": "ATLAS - Twilio, Stripe, Google Calendar API Clients | Garcar Enterprise",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "atlas-orchestration",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 11,
+  "desc": "ATLAS - LangGraph Workflow Engine + Redis Agent Coordination | Garcar Enterprise",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "AutoGenesis-AI-Platform",
+  "tier": "STUB",
+  "private": false,
+  "lang": "TypeScript",
+  "size": 98,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "autohelix",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 31,
+  "desc": "AUTOHELIX: Quantum-Hybrid AI Infrastructure for Self-Healing Systems & Real-Time Data Liquidity Markets",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "automated-sales-outreach",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 58,
+  "desc": "AI SDR that sends 1,000+ personalized emails/day - $15K/month",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "automation-client-retainer",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 1,
+  "desc": "Retainer project for Automation Client (Sample)",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "automation-frontend-dashboard",
+  "tier": "STUB",
+  "private": false,
+  "lang": "HTML",
+  "size": 26,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "autonoma-agents",
+  "tier": "CODE",
+  "private": false,
+  "lang": "TypeScript",
+  "size": 18049,
+  "desc": "Open-source testing platform where AI agents navigate your app end-to-end and catch regressions on every PR. No test code required.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "autonomous-butler-core",
+  "tier": "CODE",
+  "private": false,
+  "lang": "Python",
+  "size": 312,
+  "desc": "\ud83e\udd16 Enterprise autonomous AI orchestration platform - Multi-agent system with zero-human intervention. DevOps, Revenue Ops, Security, PM, Support, Infrastructure agents working 24/7.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "autonomous-event-mesh",
+  "tier": "CASH",
+  "private": false,
+  "lang": null,
+  "size": 3,
+  "desc": "\ud83d\udd00 Event-driven architecture with Kafka - Real-time event processing for GitHub, Stripe, Kubernetes, custom webhooks with autonomous routing",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "autonomous-hub",
+  "tier": "CONTROL",
+  "private": true,
+  "lang": "TypeScript",
+  "size": 251,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "autonomous-income-deployment",
+  "tier": "CODE",
+  "private": false,
+  "lang": "JavaScript",
+  "size": 27061,
+  "desc": "Zero-human autonomous deployment system for income-generating business infrastructure with AI-powered self-healing and revenue automation",
+  "updated": "2026-10-03"
+ },
+ {
+  "name": "autonomous-orchestrator-core",
+  "tier": "CONTROL",
+  "private": false,
+  "lang": "Python",
+  "size": 315,
+  "desc": "Core autonomous orchestration engine unifying 332 enterprise systems with self-improving capabilities.",
+  "updated": "2026-11-04"
+ },
+ {
+  "name": "autonomous-revenue-architect",
+  "tier": "CASH",
+  "private": false,
+  "lang": "Python",
+  "size": 17,
+  "desc": "Self-operating AI business system generating $50K-500K monthly through automated SaaS, API marketplace, and AI consulting services. Complete payment integration, customer acquisition, and scaling automation.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "autonomous-revenue-ops",
+  "tier": "CASH",
+  "private": false,
+  "lang": "Python",
+  "size": 6,
+  "desc": "\ud83d\udcb0 Autonomous revenue operations - Auto-retry failed payments, predict churn, retention offers, MRR tracking, Stripe integration",
+  "updated": "2026-10-03"
+ },
+ {
+  "name": "autonomous-self-healing",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 3,
+  "desc": "\ud83d\udd27 Self-healing infrastructure agent - Auto-restart failed pods, scale on demand, predictive maintenance, 99.99% uptime guarantee",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "autonomous-support-ai",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 3,
+  "desc": "\ud83e\udd16 AI-powered customer support - RAG over docs, 85%+ auto-response rate, escalation to humans, continuous learning from tickets",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "autonomous-zero-touch-deploy",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 10,
+  "desc": "\ud83d\ude80 Zero-touch deployment pipeline - Auto-test, build, deploy to staging/prod, smoke tests, auto-rollback on failures. GitHub Actions + K8s",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "believe-revenue-site",
+  "tier": "CASH",
+  "private": false,
+  "lang": "CSS",
+  "size": 42,
+  "desc": "BELIEVE + AmenityTech.ai revenue landing page \u2014 live Stripe payments, real metrics, full analytics",
+  "updated": "2026-10-03"
+ },
+ {
+  "name": "CashRun",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Enterprise cash runway forecasting, audit history, and operational alerts. Deployment target: Railway.",
+  "updated": "2026-11-03"
+ },
+ {
+  "name": "churn-predictor-ai-backend",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 4,
+  "desc": "FastAPI + scikit-learn B2B SaaS churn prediction and retention playbook system. Part of AI SaaS Empire.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "client-onboarding-platform",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 41,
+  "desc": "Client onboarding platform \u2014 Pipedrive webhooks \u2192 FastAPI \u2192 workers \u2192 GitHub/ClickUp provisioning \u2192 Supabase state. Zero-touch onboarding with Railway, Terraform, and full observability.",
+  "updated": "2026-09-28"
+ },
+ {
+  "name": "code-snippets-vault",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Shell",
+  "size": 8,
+  "desc": "Reusable code snippets, utilities, and helper functions with comprehensive documentation",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "cognitive-api-marketplace",
+  "tier": "CASH",
+  "private": false,
+  "lang": null,
+  "size": 2,
+  "desc": "Production marketplace platform for monetizing AI capabilities. Instant API deployment, usage-based billing, developer portal, analytics dashboard. Built-in fraud detection and rate limiting for enterprise scale.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "content-engine-ai-backend",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 5,
+  "desc": "FastAPI + LangGraph + Celery SEO content engine with multi-agent pipeline. Part of AI SaaS Empire.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "continuum-agents",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 90,
+  "desc": "Continuum \u2014 Persistent Agent Operating Layer: plan-execute-verify-correct agent loop with durable memory, tamper-evident audit chain, policy engine, and zero dependencies",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "conversational-ai-engine",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 6,
+  "desc": "Production chatbot platform with multi-channel deployment (web/Slack/Teams/WhatsApp), advanced NLU, conversation memory, A/B testing. Deploy enterprise-grade conversational AI in 24 hours.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "cuddly-octo-telegram",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 2,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "customer-churn-predictor",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 24,
+  "desc": "ML-powered churn prediction (85%+ accuracy) - $25K/month revenue",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "customer-intelligence-branch",
+  "tier": "CASH",
+  "private": false,
+  "lang": null,
+  "size": 3,
+  "desc": "AI-driven customer intelligence platform - Sentiment analysis, predictive lead scoring, behavior tracking, and churn prevention",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "deal-desk-ai-backend",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 3,
+  "desc": "FastAPI + LangGraph multi-agent system for automated sales proposal generation. Part of AI SaaS Empire.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "deal-desk-ai-frontend",
+  "tier": "STUB",
+  "private": false,
+  "lang": "CSS",
+  "size": 80,
+  "desc": "React + Vite frontend for Deal Desk AI proposal generation system. Part of AI SaaS Empire.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "deal-desk-console",
+  "tier": "STUB",
+  "private": true,
+  "lang": "TypeScript",
+  "size": 6,
+  "desc": "ABC Deal Desk \u2014 Next.js command-center frontend, tenant context, billing shell",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "deal-desk-core",
+  "tier": "CASH",
+  "private": true,
+  "lang": "Python",
+  "size": 17,
+  "desc": "ABC Deal Desk \u2014 FastAPI + SQLAlchemy backend, Stripe billing, RHNS verification, ship-ready hardened package",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "deal-desk-ops",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 7,
+  "desc": "ABC Deal Desk \u2014 Ops runbooks, smoke tests, DR procedures, scheduled health monitoring",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "defender-os",
+  "tier": "CODE",
+  "private": true,
+  "lang": "Python",
+  "size": 196,
+  "desc": "Zero-Trust + Agentic Defense fabric for Garcar Enterprise",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "defi-yield-aggregator",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Rust",
+  "size": 10,
+  "desc": "Cross-chain yield farming optimizer - $30K/month revenue target",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "devops-portfolio",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 33,
+  "desc": "DevOps Engineer Portfolio - Infrastructure as Code, CI/CD pipelines, AWS EKS, Docker, Kubernetes, Terraform automation projects and technical documentation",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "dfw-lead-audit",
+  "tier": "CASH",
+  "private": false,
+  "lang": "HTML",
+  "size": 2,
+  "desc": "Free one-page lead-leak audit tool for DFW contractors and realtors. Sell the $47 audit, upsell the $2,500 lead-backup service.",
+  "updated": "2026-10-16"
+ },
+ {
+  "name": "distributed-job-orchestration-engine",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 7,
+  "desc": "Schedule and manage millions of jobs across distributed infrastructure. 100x more scalable than Airflow. DAG-based workflows, dependency management, auto-retry, monitoring. Handles 10M+ daily jobs effortlessly.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "document-intelligence-hub",
+  "tier": "CONTROL",
+  "private": false,
+  "lang": null,
+  "size": 2,
+  "desc": "AI document processing with OCR, contract analysis, automated data entry, compliance checking, knowledge base creation. Process 10,000+ documents per hour with 99.5%+ accuracy.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "documentation-hub",
+  "tier": "CONTROL",
+  "private": false,
+  "lang": "Shell",
+  "size": 9,
+  "desc": "Centralized documentation, architecture guides, and knowledge base for entire project ecosystem",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "ecommerce-microservices",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 2,
+  "desc": "Cloud-native e-commerce. 8 microservices, 10K+ users, Spring Boot + K8s",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "enterprise-ai-deployment",
+  "tier": "STUB",
+  "private": false,
+  "lang": "HCL",
+  "size": 12,
+  "desc": "Complete Enterprise AI Grid Deployment Infrastructure with Terraform, Kubernetes, and CI/CD",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "enterprise-ai-grid",
+  "tier": "STUB",
+  "private": false,
+  "lang": "HCL",
+  "size": 14,
+  "desc": "Enterprise AI Grid - Ultra-low latency platform + UEEP + Evolutionary AGI",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "enterprise-automation-system",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 32,
+  "desc": "Production-grade AI automation system with 99.99% uptime SLA - Core orchestration and infrastructure",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "enterprise-cicd-foundation",
+  "tier": "STUB",
+  "private": false,
+  "lang": null,
+  "size": 19,
+  "desc": "7-stage CI/CD pipeline with 99.99% uptime SLA",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "enterprise-data-mesh-platform",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 2,
+  "desc": "Decentralized data architecture with domain-driven design, self-serve data infrastructure, federated governance, real-time data products. Scale to petabytes with zero bottlenecks.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "enterprise-devops-platform",
+  "tier": "STUB",
+  "private": false,
+  "lang": "HCL",
+  "size": 3,
+  "desc": "Full DevOps infrastructure. GitOps with ArgoCD, Terraform IaC, Elite DORA metrics",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "enterprise-feature-flag-system",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 6,
+  "desc": "Progressive rollouts, A/B testing at billion-user scale, zero-downtime deployments. Real-time feature toggles, targeting rules, analytics. 10x safer deployments with instant rollback capabilities.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "enterprise-mlops-platform",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 94,
+  "desc": "Complete MLOps lifecycle management: experiment tracking, model versioning, A/B testing, monitoring, auto-retraining. Deploy ML models 50x faster with 99.9% uptime. GPU cluster optimization included.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "enterprise-pilot-programs",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 9,
+  "desc": "Enterprise AI Platform Pilot Programs - Onboarding, Training, and Success Tracking",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "enterprise-proposal-generator",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 2,
+  "desc": "AI-powered enterprise proposal generation from RFPs. Historical win-rate analysis, competitive intelligence, pricing optimization, technical specifications. 90%+ win rate improvement for $5K-25K deals.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "enterprise-unified-platform",
+  "tier": "CODE",
+  "private": false,
+  "lang": "Python",
+  "size": 748,
+  "desc": "\ud83d\ude80 Enterprise-Grade Unified Platform | $104M+ Multi-System Integration Hub | Next.js 14 + FastAPI + Real-time Analytics | HubSpot-Level Conference Platform for Multi-Million Dollar Presentations",
+  "updated": "2026-10-29"
+ },
+ {
+  "name": "evals",
+  "tier": "CODE",
+  "private": false,
+  "lang": "Python",
+  "size": 6503,
+  "desc": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "fastapi",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 11,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "fastapi.",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 11,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "fulfillment-service",
+  "tier": "CASH",
+  "private": true,
+  "lang": "Python",
+  "size": 22,
+  "desc": "GAR-458 Contractor Audit Fulfillment Service \u2014 delivery chain, SQLite init, webhook handler, smoke tests",
+  "updated": "2026-09-28"
+ },
+ {
+  "name": "Full-front-end-",
+  "tier": "STUB",
+  "private": true,
+  "lang": "TypeScript",
+  "size": 44,
+  "desc": "Autonomous business infrastructure ",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-299-audit",
+  "tier": "CASH",
+  "private": true,
+  "lang": "Python",
+  "size": 18,
+  "desc": "Canonical technical repository for the Garcar $299 Audit product: launch documentation, application templates, fulfillment scaffolding, and implementation assets. Private.",
+  "updated": "2026-09-28"
+ },
+ {
+  "name": "garcar-acquisition",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 7,
+  "desc": "Automated DFW contractor cold outreach engine \u2014 Mon/Wed/Fri via GitHub Actions + AWS SES",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "GARCAR-AI-GOVERNANCE",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 5,
+  "desc": "Garcar Enterprise private system",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-alpha-os",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 2,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-apex-nexus",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 14,
+  "desc": "\ud83d\ude80 GARCAR APEX NEXUS | The World's Most Advanced AI Business Operating System | Unified Control Plane orchestrating agents, revenue, deployments, clients & intelligence | Enterprise-grade | By Garrett Carrol",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-apk",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Kotlin",
+  "size": 7,
+  "desc": "GARCAR mobile control plane and end-to-end integration platform for GitHub, Supabase, Linear, Notion, Slack, Shopify, Vercel, HubSpot, Apollo, Hunter, Wix, Facebook Pages, Asana, ClickUp, Google Tasks, AngelList, Coinbase, Base, and Hugging Face.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-arbitrage",
+  "tier": "CODE",
+  "private": true,
+  "lang": "Python",
+  "size": 3392,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "GARCAR-AUDIT-LEDGER",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 14,
+  "desc": "Garcar Enterprise private system",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-audit-trail",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 5,
+  "desc": "\ud83d\udcdc Immutable append-only audit log using AWS QLDB. Tamper-proof record of every action across all Garcar systems. SOC 2 and investor due diligence ready.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-autonomous-revenue-engine",
+  "tier": "CASH",
+  "private": true,
+  "lang": "Python",
+  "size": 27,
+  "desc": "Garcar Enterprise \u2014 Autonomous Revenue Engine: AI-driven marketing, lead acquisition, and Stripe monetization system running on AWS + GitHub Actions",
+  "updated": "2026-09-28"
+ },
+ {
+  "name": "garcar-autonomous-wealth-system",
+  "tier": "CASH",
+  "private": false,
+  "lang": "Python",
+  "size": 417,
+  "desc": "Enterprise autonomous AI wealth generation system with multi-agent orchestration, Stripe integration, Linear task automation, and Apollo lead generation",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "GARCAR-BACKUP-VAULT",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Enterprise private system",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-base",
+  "tier": "CONTROL",
+  "private": true,
+  "lang": "Python",
+  "size": 59,
+  "desc": "Garcar Enterprise \u2014 Base FastAPI package. Universal API contract, MARS standard router, health/meta/webhook endpoints for all systems.",
+  "updated": "2026-09-29"
+ },
+ {
+  "name": "GARCAR-BOARD-PORTAL",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Enterprise private system",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-business-continuity",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 1,
+  "desc": "\ud83d\udd04 DR orchestration: daily S3 Glacier backups, RTO/RPO tracking, automated quarterly DR drills via GitHub Actions, Route 53 failover routing.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-command-center",
+  "tier": "CASH",
+  "private": true,
+  "lang": "JavaScript",
+  "size": 33,
+  "desc": "Owner-controlled AI revenue operating system with governed agents, lead scoring, approvals, execution boundaries, and tamper-evident audit.",
+  "updated": "2026-10-17"
+ },
+ {
+  "name": "garcar-command-fabric",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 66,
+  "desc": "AI operations platform for real-estate and agentic commerce businesses - workflow orchestration, revenue visibility, deployment control, and operator copilots",
+  "updated": "2026-09-24"
+ },
+ {
+  "name": "garcar-command-plane",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 1,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-communication-bus",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Enterprise communication bus \u2014 Pipedream-based event bus, HMAC-signed envelope, garcar-bus-client SDK, and receiver template for all 332 systems",
+  "updated": "2026-10-31"
+ },
+ {
+  "name": "GARCAR-CONTRACT-AI",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Enterprise private system",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-contract-automation",
+  "tier": "CASH",
+  "private": true,
+  "lang": "Python",
+  "size": 3,
+  "desc": "\ud83d\udcc4 Contract generation, routing, e-signature, and archival. Renewal alerts, Stripe payment-linked enforcement, DocuSign integration.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-control-plane",
+  "tier": "CONTROL",
+  "private": false,
+  "lang": "Python",
+  "size": 127,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-corporate-governance",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 1,
+  "desc": "\ud83c\udfe6 Board resolutions, meeting minutes automation, cap table management, equity grant tracking. VC investor and acquisition readiness framework.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "GARCAR-DATA-PRIVACY",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Enterprise private system",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-data-room",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 58,
+  "desc": "Garcar Enterprise investor data room: hashed evidence manifest, founder-approved access",
+  "updated": "2026-10-30"
+ },
+ {
+  "name": "garcar-data-sovereignty",
+  "tier": "CONTROL",
+  "private": true,
+  "lang": null,
+  "size": 1,
+  "desc": "\ud83c\udf10 Data residency enforcement: Texas customers in us-east-1, EU in eu-west-1. Cross-border transfer agreements, data classification engine.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-deploy-engine",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 51,
+  "desc": "Garcar codeless deploy engine",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "GARCAR-DEPLOY-SHIELD",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Enterprise private system",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-emergency-payments",
+  "tier": "CASH",
+  "private": false,
+  "lang": "Python",
+  "size": 44,
+  "desc": "Emergency Stripe webhook + fulfillment receiver. Bypasses locked Cloudflare Workers and Vercel. Zero dependency on the old control plane.",
+  "updated": "2026-09-28"
+ },
+ {
+  "name": "garcar-enablement",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 33,
+  "desc": "Full-scale enablement runtime that plans, gates, and audits all built Garcar products under the verified RHNS Kernel. Policy + hash-chained ledger. Walking-skeleton revenue loop.",
+  "updated": "2026-10-14"
+ },
+ {
+  "name": "garcar-enterprise-os-core",
+  "tier": "CONTROL",
+  "private": true,
+  "lang": "Python",
+  "size": 56,
+  "desc": "Shared domain models, scoring rules, and validation workflows for Garcar Enterprise OS.",
+  "updated": "2026-10-09"
+ },
+ {
+  "name": "garcar-enterprise-os-docs",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 7,
+  "desc": "Architecture, offers, case studies, onboarding, and sales collateral for Garcar Enterprise OS. Public claims require evidence references.",
+  "updated": "2026-10-09"
+ },
+ {
+  "name": "garcar-enterprise-os-infra",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 2,
+  "desc": "Docker, Kubernetes, Terraform, CI, secrets references, and deployment runbooks. No secret values.",
+  "updated": "2026-10-09"
+ },
+ {
+  "name": "garcar-enterprise-os-services",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 4,
+  "desc": "Microservices scaffold for asset registry, repo registry, offer engine, and validation hub.",
+  "updated": "2026-10-09"
+ },
+ {
+  "name": "garcar-enterprise-os-ui",
+  "tier": "STUB",
+  "private": false,
+  "lang": "HTML",
+  "size": 52,
+  "desc": "Static control panel and investor-safe portfolio pages. Reads status from docs. Does not claim cash.",
+  "updated": "2026-10-09"
+ },
+ {
+  "name": "garcar-enterprise-production",
+  "tier": "CONTROL",
+  "private": false,
+  "lang": "Python",
+  "size": 1161,
+  "desc": "Production-Ready Enterprise Stack with CI/CD - Revenue Aggregator, AI Agent Network, API Gateway with full automation",
+  "updated": "2026-11-04"
+ },
+ {
+  "name": "garcar-enterprise-sync-core",
+  "tier": "CONTROL",
+  "private": true,
+  "lang": "Python",
+  "size": 191,
+  "desc": "\ud83d\udd17 GARCAR Master Sync Hub \u2014 Cross-system orchestration, event bus, health matrix, and state synchronization across all 179+ repos. Private use only.",
+  "updated": "2026-10-28"
+ },
+ {
+  "name": "Garcar-enterprise-system-front-1",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 1,
+  "desc": "Autonomous business infrastructure ",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-financial-controls",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 4,
+  "desc": "\ud83d\udcb0 Double-entry bookkeeping, Plaid bank reconciliation, automated P&L + balance sheet. Series A investor ready financial controls engine.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "GARCAR-FINANCIAL-CORE",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Enterprise private system",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-gdpr-ccpa-engine",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 4,
+  "desc": "\ud83d\udd12 Automated GDPR/CCPA compliance: data subject requests, consent management, privacy policy versioning, cross-border data transfer agreements.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "GARCAR-HR-SYSTEM",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Enterprise private system",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-identity-access",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 1,
+  "desc": "\ud83d\udc64 IAM engine: RBAC for every system, SSO via Auth0/Okta, hardware MFA enforcement, 90-day access reviews. Zero unauthorized access.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "GARCAR-IDENTITY-IAM",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Enterprise private system",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "GARCAR-INCIDENT-CORE",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Enterprise private system",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-incident-response",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 1,
+  "desc": "\ud83d\udea8 Automated security incident playbooks, PagerDuty integration, breach notification templates per state law, outage response orchestration.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-insurance-automation",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 1,
+  "desc": "\ud83d\udcbc Business insurance policy tracker: E&O, cyber, general liability. Auto-requests certificates, alerts on coverage gaps, policy renewal management.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-integrations-hub",
+  "tier": "CASH",
+  "private": true,
+  "lang": "Python",
+  "size": 18,
+  "desc": "\ud83d\udd17 GARCAR Enterprise \u2014 Full 22-Platform Integration Hub: GitHub, Linear, Gmail, Slack, Stripe, Supabase, HubSpot, Apollo, Shopify, Wix, Coinbase, Base L2, Vercel, Notion, ClickUp, Asana, HuggingFace, AngelList, Hunter, Wind, Academic APIs. Revenue-ready, Proof Gate verified.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "GARCAR-IP-REGISTRY",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Enterprise private system",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-ip-vault",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 4,
+  "desc": "\ud83c\udfc6 IP asset tracker: trademarks, copyrights, trade secrets, provisional patents via USPTO API. Enforces contributor license agreements across all repos.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-landing",
+  "tier": "CODE",
+  "private": false,
+  "lang": "HTML",
+  "size": 1342,
+  "desc": "",
+  "updated": "2026-11-01"
+ },
+ {
+  "name": "garcar-landing-free",
+  "tier": "CASH",
+  "private": true,
+  "lang": "HTML",
+  "size": 9,
+  "desc": "Garcar landing page - $47 Starter Audit with Stripe payment link",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-lead-intake",
+  "tier": "CASH",
+  "private": false,
+  "lang": "JavaScript",
+  "size": 17,
+  "desc": "Garcar Enterprise lead intake API \u2014 captures roofing & contractor leads, stores to DB, fires webhooks",
+  "updated": "2026-09-28"
+ },
+ {
+  "name": "garcar-legal-compliance-shield",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 6,
+  "desc": "\ud83d\udee1\ufe0f Legal engine: auto-generates NDAs, MSAs, IP assignments, contractor agreements via OpenAI + DocuSign. S3-backed signed document vault with SHA-256 integrity.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-litigation-tracker",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 1,
+  "desc": "\u2696\ufe0f Legal dispute tracking: active cases, statute of limitations deadlines, demand letter log, opposing counsel database, court deadline calendar alerts.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "GARCAR-MA-TRACKER",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Enterprise private system",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "GARCAR-NEXUS-COMPLIANCE",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Enterprise private system",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-niche-revenue-engine",
+  "tier": "CASH",
+  "private": true,
+  "lang": "Python",
+  "size": 28,
+  "desc": "GNRE control plane \u2014 DFW contractor Lead Recovery System. Config-first niche wedge, not a platform factory.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-operator-fabric",
+  "tier": "CASH",
+  "private": true,
+  "lang": "TypeScript",
+  "size": 37,
+  "desc": "Garcar Enterprise \u2014 AI Business Operating Fabric with AutoKey orchestration, multi-tenant agent runner, Stripe billing, and full operator console",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-payment-loop",
+  "tier": "CASH",
+  "private": true,
+  "lang": "Python",
+  "size": 344,
+  "desc": "Stripe webhook \u2192 GitHub Actions \u2192 gc_ledger",
+  "updated": "2026-11-03"
+ },
+ {
+  "name": "garcar-payments",
+  "tier": "CASH",
+  "private": false,
+  "lang": "Python",
+  "size": 294,
+  "desc": "Garcar Enterprise Payments System",
+  "updated": "2026-10-25"
+ },
+ {
+  "name": "garcar-private-operator-apk",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Kotlin",
+  "size": 4,
+  "desc": "Clean APK build lane for Garcar Private Operator \u2014 bypasses poisoned Actions registry on main repo",
+  "updated": "2026-09-21"
+ },
+ {
+  "name": "garcar-product-factory",
+  "tier": "CASH",
+  "private": true,
+  "lang": "Python",
+  "size": 39,
+  "desc": "Garcar Enterprise product factory: governed digital-product catalog, Stripe Checkout, verified webhook fulfillment, and Supabase-backed operations.",
+  "updated": "2026-11-04"
+ },
+ {
+  "name": "garcar-qih-core",
+  "tier": "STUB",
+  "private": true,
+  "lang": "TypeScript",
+  "size": 38,
+  "desc": "Garcar Enterprise: QIH Telemetry & Render Architecture",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-regulatory-monitor",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 5,
+  "desc": "\ud83d\udcf0 Scrapes Federal Register, Texas SOS, FinCEN, SEC EDGAR, CFPB for regulatory changes. AI-summarized impact alerts within 24hrs of publication.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-repo-foundry",
+  "tier": "CONTROL",
+  "private": false,
+  "lang": "Python",
+  "size": 8,
+  "desc": "Builds every Garrettc123 repo into a runnable Garcar kernel: inventory, classification, cash-path stamp, health/SKU contract.",
+  "updated": "2026-09-28"
+ },
+ {
+  "name": "garcar-revenue-loop",
+  "tier": "CASH",
+  "private": true,
+  "lang": null,
+  "size": 1,
+  "desc": "Garcar Enterprise revenue loop: HubSpot-Stripe-Supabase automation for real estate lead-to-cash pipeline",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "GARCAR-REVENUE-OPS",
+  "tier": "CODE",
+  "private": true,
+  "lang": "Python",
+  "size": 169,
+  "desc": "Garcar Enterprise private system",
+  "updated": "2026-10-24"
+ },
+ {
+  "name": "garcar-revenue-os",
+  "tier": "CODE",
+  "private": true,
+  "lang": "JavaScript",
+  "size": 509,
+  "desc": "Garcar Revenue OS \u2014 governed AI business workforce and autonomous revenue operations control plane.",
+  "updated": "2026-11-02"
+ },
+ {
+  "name": "garcar-revenue-services",
+  "tier": "CASH",
+  "private": true,
+  "lang": "Python",
+  "size": 31,
+  "desc": "Garcar governed revenue-flow implementation: lead intake, exact-payload approvals, Brevo email adapter, Stripe Checkout and signed payment reconciliation. Requires live validation before production use.",
+  "updated": "2026-10-26"
+ },
+ {
+  "name": "garcar-revenue-wizard",
+  "tier": "CASH",
+  "private": false,
+  "lang": "HTML",
+  "size": 7,
+  "desc": "Garcar Revenue System Wizard \u2014 client-side multi-step configurator that generates a governed revenue build plan (JSON + Markdown) from one paid offer, stack, pipeline, automations, and agent safety gates. Pre-filled with live $2,500 DFW real-estate lead-backup offer.",
+  "updated": "2026-10-11"
+ },
+ {
+  "name": "garcar-rhns",
+  "tier": "STUB",
+  "private": true,
+  "lang": "TypeScript",
+  "size": 57,
+  "desc": "Garcar RHNS \u2014 Revenue Horizon Navigation System. TypeScript platform event client + revenue reasoning session runner.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-rhns-core",
+  "tier": "CONTROL",
+  "private": true,
+  "lang": "Python",
+  "size": 130,
+  "desc": "",
+  "updated": "2026-10-08"
+ },
+ {
+  "name": "garcar-rhns-edge",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 40,
+  "desc": "RHNS Edge Autonomy: evidence-ledgered Economic Delta Events, deterministic repair loops, and Revenue Recovery Graph opportunity mining.",
+  "updated": "2026-09-27"
+ },
+ {
+  "name": "GARCAR-RISK-ENGINE",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Enterprise private system",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-secrets-vault",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 5,
+  "desc": "\ud83d\udd10 Centralized secrets management: AWS Secrets Manager sync, auto-rotation every 30 days, Gitleaks scanning across all 179+ repos for leaked credentials.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "GARCAR-SECURITY-OPS",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Enterprise private system",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-shopify-app",
+  "tier": "STUB",
+  "private": false,
+  "lang": "TypeScript",
+  "size": 125,
+  "desc": "Garcar Enterprise Shopify App \u2014 Embedded Remix + TypeScript + Polaris. Part of the 332+ autonomous systems ecosystem.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-showroom",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Showroom: interactive software demonstrations and supported workflow activation. In development; no production-readiness or revenue claims.",
+  "updated": "2026-10-27"
+ },
+ {
+  "name": "garcar-singularity-grid",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 7,
+  "desc": "Garcar Master AI Business Orchestrator",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-soc2-framework",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 4,
+  "desc": "\u2705 SOC 2 Type II control mapping, automated evidence collection, monthly auditor report generation. Prerequisite for enterprise B2B sales.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-sovereign-control-plane",
+  "tier": "CONTROL",
+  "private": true,
+  "lang": "Python",
+  "size": 31,
+  "desc": "GARCAR Sovereign Control Plane: dry-run-first governance edge for repository commands, signed webhooks, approvals, and kill switch.",
+  "updated": "2026-10-03"
+ },
+ {
+  "name": "garcar-star",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 17,
+  "desc": "Governed STAR control plane for real-estate revenue operations: authenticated intake, durable queueing, worker leasing, audit, pause controls, provider-effects idempotency. Reusable capabilities, provider adapters, approval-gated external actions.",
+  "updated": "2026-10-15"
+ },
+ {
+  "name": "garcar-tax-automation",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 4,
+  "desc": "\ud83e\udfe7 Federal + Texas state tax calculation, quarterly filings, 1099 generation, 50-state sales tax nexus via TaxJar API. Zero manual tax work.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-treasury-management",
+  "tier": "CASH",
+  "private": true,
+  "lang": "Python",
+  "size": 3,
+  "desc": "\ud83c\udfe6 Cash flow forecasting, multi-account sweep automation, AP/AR aging reports. Connects Stripe + bank accounts into unified treasury dashboard.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "GARCAR-VAULT-SECRETS",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Enterprise private system",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "GARCAR-VENDOR-MGMT",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Enterprise private system",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-vendor-risk",
+  "tier": "CASH",
+  "private": true,
+  "lang": null,
+  "size": 1,
+  "desc": "\ud83d\udd0d Third-party vendor risk scoring: financial health, security posture, SLA tracking for AWS, Stripe, OpenAI. Auto-activates alternative providers on failure.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "garcar-venture-vehicle",
+  "tier": "CASH",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Garcar Enterprise operating vehicle for the MARS Revenue Recovery System: governed real-estate lead recovery, deal-flow automation, and evidence-driven operations.",
+  "updated": "2026-09-23"
+ },
+ {
+  "name": "garrettc1",
+  "tier": "CASH",
+  "private": false,
+  "lang": "HTML",
+  "size": 2,
+  "desc": "Garcar product site 1 \u2014 $47 Contractor Lead Leak Audit",
+  "updated": "2026-09-23"
+ },
+ {
+  "name": "Garrettc123",
+  "tier": "STUB",
+  "private": false,
+  "lang": null,
+  "size": 33,
+  "desc": "AI Enterprise Systems Architect | $104M+ Revenue Potential Across 8 Production Systems",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "Garrettc123.github.io",
+  "tier": "CONTROL",
+  "private": false,
+  "lang": "HTML",
+  "size": 210,
+  "desc": "",
+  "updated": "2026-11-03"
+ },
+ {
+  "name": "garrettc2",
+  "tier": "STUB",
+  "private": false,
+  "lang": "HTML",
+  "size": 2,
+  "desc": "Garcar product site 2 \u2014 $497/wk one-workflow sprint",
+  "updated": "2026-09-23"
+ },
+ {
+  "name": "garrettc3",
+  "tier": "CASH",
+  "private": false,
+  "lang": "HTML",
+  "size": 2,
+  "desc": "Garcar product site 3 \u2014 $497 RE lead-list review",
+  "updated": "2026-09-23"
+ },
+ {
+  "name": "garrettc4",
+  "tier": "STUB",
+  "private": false,
+  "lang": "HTML",
+  "size": 2,
+  "desc": "Garcar product site 4 \u2014 $2500 CRM Safeguard",
+  "updated": "2026-09-23"
+ },
+ {
+  "name": "garrettc5",
+  "tier": "STUB",
+  "private": false,
+  "lang": "HTML",
+  "size": 2,
+  "desc": "Garcar product site 5 \u2014 ATLAS architecture",
+  "updated": "2026-09-23"
+ },
+ {
+  "name": "genesis-consciousness-deploy",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Shell",
+  "size": 12,
+  "desc": "The first consciousness-driven deployment system - combines quantum observation, Proof of History, and karmic feedback loops. Based on Blueprint of Life, Solana PoH, and Loop of Existence. Deploy your entire ecosystem with self-aware architecture.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "gitops-rhns",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 8,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "gumroad",
+  "tier": "CODE",
+  "private": false,
+  "lang": "Ruby",
+  "size": 659007,
+  "desc": "Sell stuff and see what sticks",
+  "updated": "2026-09-30"
+ },
+ {
+  "name": "gwc1",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 33,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "haikus-for-codespaces",
+  "tier": "CODE",
+  "private": false,
+  "lang": "EJS",
+  "size": 515,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "hyper-automation-factory",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 2,
+  "desc": "Zero-code enterprise automation engine with self-learning capabilities. Generates, deploys, and optimizes workflows autonomously. 10,000+ pre-built integrations. ML-powered process mining and continuous improvement.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "hypervelocity-orchestrator",
+  "tier": "CONTROL",
+  "private": false,
+  "lang": null,
+  "size": 2,
+  "desc": "Unprecedented AI Development Orchestration System - 50x parallel task execution with intelligent auto-fixing, auto-deployment, and GitHub automation. Built for ultra-high-speed development.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "infrastructure-code-architect",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 2,
+  "desc": "Natural language to Infrastructure-as-Code conversion. GPT-4 generates Terraform, K8s manifests, CloudFormation. Multi-cloud optimization, cost estimation, security policy enforcement. 10x faster infrastructure deployment.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "infrastructure-templates",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 9,
+  "desc": "Production-ready infrastructure templates and configurations for rapid deployment",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "intelligent-ci-cd-orchestrator",
+  "tier": "CONTROL",
+  "private": false,
+  "lang": "Python",
+  "size": 7,
+  "desc": "AI-optimized deployment pipelines with intelligent test selection, canary/blue-green strategies, automatic rollback, performance regression detection. 70% faster deployments, 90% fewer incidents.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "intelligent-customer-data-platform",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 5,
+  "desc": "360\u00b0 customer intelligence with real-time segmentation, predictive analytics, cross-channel personalization. Process 100M+ customer profiles with ML-powered insights. GDPR compliant, enterprise-grade security.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "iot-analytics-pipeline",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 2,
+  "desc": "Distributed IoT analytics. 1M+ events/min, Kafka + Spark, Lambda architecture",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "lead-enrichment-engine",
+  "tier": "CASH",
+  "private": false,
+  "lang": "JavaScript",
+  "size": 93,
+  "desc": "50+ source lead enrichment API - $20K/month revenue target",
+  "updated": "2026-10-03"
+ },
+ {
+  "name": "lead-leak-audit",
+  "tier": "CASH",
+  "private": false,
+  "lang": "HTML",
+  "size": 4,
+  "desc": "The Lead Leak Audit \u2014 how DFW contractors lose $40K+/year to slow follow-up. Free PDF guide.",
+  "updated": "2026-10-16"
+ },
+ {
+  "name": "legal-compliance-orchestrator",
+  "tier": "CONTROL",
+  "private": true,
+  "lang": null,
+  "size": 1,
+  "desc": "Central legal compliance, data protection, and system synchronization hub for all Garcar Enterprise infrastructure",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "living-infrastructure-brain",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 5,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "machine-payments",
+  "tier": "CASH",
+  "private": false,
+  "lang": "TypeScript",
+  "size": 657,
+  "desc": "",
+  "updated": "2026-09-29"
+ },
+ {
+  "name": "marketing-automation-branch",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 2,
+  "desc": "AI-powered marketing automation system - Content generation, SEO optimization, social media management, and analytics integration",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "mars-ai-debugger",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 20,
+  "desc": "MARS - Metacognitive AI Reasoning System for software debugging with uncertainty quantification and adaptive resource allocation",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "mars-api",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 43,
+  "desc": "",
+  "updated": "2026-11-01"
+ },
+ {
+  "name": "mars-benchmark-research",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 1,
+  "desc": "Private reproducible research infrastructure for MARS uncertainty-aware routing benchmarks and arXiv preparation.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "mars-production",
+  "tier": "CONTROL",
+  "private": false,
+  "lang": "Python",
+  "size": 65,
+  "desc": "",
+  "updated": "2026-10-25"
+ },
+ {
+  "name": "master-deployment-auto-deploy-revenue",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Shell",
+  "size": 50,
+  "desc": "Master orchestration hub for automated deployment and revenue generation across all enterprise systems. One-command deploy \u2192 auto-money system.",
+  "updated": "2026-10-03"
+ },
+ {
+  "name": "MASTER-Integration-Hub",
+  "tier": "CONTROL",
+  "private": true,
+  "lang": null,
+  "size": 6,
+  "desc": "\ud83d\udd12 PRIVATE: Master Integration Hub - Legal compliance framework, system synchronization engine, automated deployment orchestrator. Connects all 60+ repositories with enterprise-grade security and legal protection.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "meta-orchestration-engine",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 2,
+  "desc": "Self-aware orchestration system managing 100+ AI agents across distributed infrastructure. Real-time coordination, autonomous healing, predictive scaling. The brain behind enterprise AI operations.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "ml-fraud-detection",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 2,
+  "desc": "Real-time ML fraud detection. 50K+ txn/min, 94.3% precision, <85ms latency",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "mobile-builds-catalog",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 4,
+  "desc": "Centralized repository for all mobile application builds, APKs, and deployment packages with version control",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "mobile-nexus-dashboard",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 2,
+  "desc": "Mobile dashboard APK for monitoring and controlling the NEXUS Master Orchestration Hub with 44 integrated systems. Real-time system status, control panel, and analytics.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "monarch-nexus-core",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 2,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "monarch-nexus-v2",
+  "tier": "STUB",
+  "private": false,
+  "lang": null,
+  "size": 28,
+  "desc": "Monarch Nexus v2.0 - Carbon Credit Platform with Unified GitHub/Linear/Notion Workflow",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "multimodal-input-api",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 34,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "napoleon-hill-success-system",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 1,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "neural-code-synthesizer",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 9,
+  "desc": "Revolutionary AI code generation from natural language to production-ready applications. Supports 50+ languages and frameworks. Automated testing, security scanning, performance optimization. Self-healing code with continuous learning.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "neural-mesh",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 117,
+  "desc": "Self-healing CI/CD pipeline with GitHub Actions",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "neural-mesh-pipeline",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 39,
+  "desc": "Production-ready self-healing neural mesh pipeline with AI-powered code repair, retry logic, and state persistence for Termux",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "NEXUS-AI-CORE",
+  "tier": "CASH",
+  "private": false,
+  "lang": "Python",
+  "size": 201,
+  "desc": "NEXUS: Autonomous AI Commerce & Real Estate Intelligence Engine by Garcar Enterprise \u2014 multi-agent orchestration, Stripe revenue loops, property scoring, and autonomous deal pipeline",
+  "updated": "2026-11-04"
+ },
+ {
+  "name": "NEXUS-Master-Orchestration-Hub",
+  "tier": "CONTROL",
+  "private": false,
+  "lang": "Shell",
+  "size": 20,
+  "desc": "Ultimate AI Infrastructure Master Orchestration Hub - Orchestrates 40+ revolutionary systems with unprecedented AI capabilities. The definitive platform for next-generation AI infrastructure.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "NEXUS-Mobile-Command-Center",
+  "tier": "CONTROL",
+  "private": false,
+  "lang": null,
+  "size": 1,
+  "desc": "Personal mobile command center for controlling all 44 revolutionary AI systems. Private exclusive access to quantum-neural infrastructure from your phone.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "NEXUS-Quantum-Intelligence-Framework",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 27,
+  "desc": "\u269b\ufe0f REVOLUTIONARY: True quantum computing integration with 1,000,000x classical speedup. IBM Quantum, Google Sycamore, AWS Braket. Solves NP-complete problems in seconds. Patent-pending algorithms. 750,000+ lines across 50+ languages.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "nexus-sync-pipeline",
+  "tier": "CASH",
+  "private": true,
+  "lang": "Python",
+  "size": 56,
+  "desc": "NEXUS bidirectional CRDT sync pipeline \u2014 Notion \u2194 GitHub \u2194 Stripe \u2194 Linear",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "nexusai-platform",
+  "tier": "CODE",
+  "private": false,
+  "lang": "Shell",
+  "size": 37249,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "nwu-cashflow-model",
+  "tier": "CASH",
+  "private": true,
+  "lang": "TypeScript",
+  "size": 102,
+  "desc": "NWU Protocol data monetization cashflow model \u2014 Garcar Enterprise 12-month projection",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "nwu-data-monetization",
+  "tier": "CASH",
+  "private": false,
+  "lang": "Python",
+  "size": 17,
+  "desc": "Data Monetization Engine - Transform data into revenue with liquidity bonds",
+  "updated": "2026-09-28"
+ },
+ {
+  "name": "nwu-protocol",
+  "tier": "CODE",
+  "private": false,
+  "lang": "Python",
+  "size": 2256,
+  "desc": "Decentralized Intelligence & Verified Truth Protocol - Safeguarding humanity through AI-powered verification and blockchain immutability",
+  "updated": "2026-10-28"
+ },
+ {
+  "name": "observability-intelligence-platform",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 1,
+  "desc": "AI-powered monitoring with anomaly detection, root cause analysis, predictive incident prevention, cost attribution, SLO tracking. Reduces MTTR by 80%, prevents 70% of incidents before they occur.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "paleontology-analysis-tools",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 13,
+  "desc": "Advanced software tools for fossil identification, permineralized dinosaur remains analysis, and paleontological data processing with AI-powered image recognition",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "perfect-customer-acquisition-system",
+  "tier": "CASH",
+  "private": false,
+  "lang": null,
+  "size": 1,
+  "desc": "Complete hands-off customer acquisition system: 500+ leads/month \u2192 AI scoring \u2192 5-channel outreach \u2192 automated sales \u2192 $50K MRR in 90 days. Integrates LinkedIn, Apollo, email, SMS, phone, chat.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "phone-backend-system-v2",
+  "tier": "STUB",
+  "private": true,
+  "lang": "TypeScript",
+  "size": 89,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "pi-control-plane",
+  "tier": "CONTROL",
+  "private": true,
+  "lang": "Python",
+  "size": 109,
+  "desc": "Garcar Enterprise \u03a0 Control Plane \u2014 canonical event, policy, evidence, and governance baseline.",
+  "updated": "2026-10-03"
+ },
+ {
+  "name": "Pipeline-A.I",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 0,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "pixel-control-hub",
+  "tier": "CONTROL",
+  "private": false,
+  "lang": null,
+  "size": 4,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "pixel-perfect-preview",
+  "tier": "CODE",
+  "private": true,
+  "lang": "TypeScript",
+  "size": 293,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "pixel-perfect-preview-4595e5bb",
+  "tier": "STUB",
+  "private": true,
+  "lang": "TypeScript",
+  "size": 122,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "pocket-revenue-ai-deploy",
+  "tier": "CODE",
+  "private": true,
+  "lang": "TypeScript",
+  "size": 793,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "portfolio",
+  "tier": "STUB",
+  "private": false,
+  "lang": "HTML",
+  "size": 5,
+  "desc": "Professional portfolio showcasing AI/ML systems and blockchain protocols",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "portfolio-website",
+  "tier": "STUB",
+  "private": false,
+  "lang": "JavaScript",
+  "size": 62,
+  "desc": "Professional AI Systems Engineer Portfolio - Showcasing 16 production systems with $102M+ revenue potential across AI, blockchain, and enterprise automation",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "predictive-infrastructure-optimizer",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 1,
+  "desc": "AI-driven multi-cloud cost optimization achieving 60-80% cost reduction. Real-time workload prediction, intelligent resource allocation, automated rightsizing. Support for AWS, Azure, GCP, Kubernetes with unified control plane.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "private-acquisition-systems",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 11,
+  "desc": "20 additional private acquisition systems - advanced automation, intelligence, and revenue generation tools",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "private-system-01-autonomous-revenue-intelligence",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 8,
+  "desc": "Real-time revenue tracking across all 16+ systems with predictive analytics, anomaly detection, and automated optimization",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "private-system-02-legal-compliance-shield",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 8,
+  "desc": "Autonomous legal compliance monitoring with GDPR/CCPA/SOC2/HIPAA enforcement, contract generation, and risk assessment",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "private-system-03-wealth-protection-vault",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 5,
+  "desc": "Family wealth preservation system with trust management, asset allocation, tax optimization, and generational wealth transfer",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "private-system-04-intellectual-property-fortress",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 6,
+  "desc": "AI-powered patent filing, trademark protection, trade secret security, and IP portfolio management with automated USPTO/PCT applications",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "private-system-05-personal-security-operations",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 7,
+  "desc": "Privacy protection, cybersecurity monitoring, identity theft prevention, secure communications, and digital footprint management",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "process-copilot",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 5,
+  "desc": "Process Copilot Enterprise System - Complete AI Ops Studio SaaS platform: multi-agent workflow automation for small businesses and agencies. Includes full system design, architecture, data models, roadmap, pricing strategy.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "product-development-branch",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 2,
+  "desc": "Intelligent product development system - AI feature prioritization, bug prediction, automated code review, and deployment orchestration",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "PROMETHEUS-Global-Infrastructure-Brain",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 7,
+  "desc": "\ud83c\udf0d PLANETARY-SCALE: Manages infrastructure for 1B+ users across 200+ countries. Multi-cloud orchestration (AWS/Azure/GCP/Oracle/Alibaba), edge computing, satellite integration. Self-healing at continental scale. 1M+ lines of Rust/Go/Python.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "proof-forge-os",
+  "tier": "EMPTY",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "",
+  "updated": "2026-10-11"
+ },
+ {
+  "name": "prospect-partner-ai",
+  "tier": "STUB",
+  "private": true,
+  "lang": "TypeScript",
+  "size": 112,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "quantum-neural-synthesizer",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 6,
+  "desc": "Revolutionary quantum-inspired neural architecture that synthesizes AI reasoning with unprecedented 10,000x performance gains. Production-ready quantum computing simulator integrated with GPT-4, Claude, and custom neural nets.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "railway-orchestrator",
+  "tier": "CONTROL",
+  "private": true,
+  "lang": null,
+  "size": 0,
+  "desc": "Railway webhook receiver with auto-key signing, async fan-out to GitHub dispatch, Linear, and Notion",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "real-time-decision-engine",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 1,
+  "desc": "Sub-10ms AI decision-making for fraud detection, risk assessment, trading signals, dynamic pricing. Rust-based performance engine processing 1M+ decisions per second with 99.7% accuracy.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "real-time-streaming-analytics",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 7,
+  "desc": "Process 10M+ events per second with sub-second latency. Kafka, Flink, ClickHouse, real-time dashboards. Complex event processing, anomaly detection, predictive analytics at massive scale.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "remix-of-visual-landing-page-website-template",
+  "tier": "CODE",
+  "private": true,
+  "lang": "TypeScript",
+  "size": 1500,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "revenue-agent-system",
+  "tier": "CODE",
+  "private": false,
+  "lang": "Python",
+  "size": 20092,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "revenue-automation-organ",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 9,
+  "desc": "BioForge Revenue organ + ZEUS-proven skeleton for ultra-low-latency AI platform and AI infrastructure architect master. Harmonious full-stack sales automation.",
+  "updated": "2026-10-10"
+ },
+ {
+  "name": "revenue-intelligence-engine",
+  "tier": "CASH",
+  "private": false,
+  "lang": "Python",
+  "size": 317,
+  "desc": "Autonomous RHNS-powered revenue intelligence: monitors all revenue streams, predicts churn, identifies opportunities, and fires autonomous close actions across Stripe, HubSpot, Shopify, and Linear.",
+  "updated": "2026-11-04"
+ },
+ {
+  "name": "revenue-orchestrator",
+  "tier": "CASH",
+  "private": true,
+  "lang": "JavaScript",
+  "size": 9,
+  "desc": "GitHub-controlled revenue loop: Issues -> HubSpot Deals -> Stripe Invoices -> Payments -> GitHub closed loop",
+  "updated": "2026-09-28"
+ },
+ {
+  "name": "revgarcar-acquisition",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 6,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "rhns-agent-core",
+  "tier": "CASH",
+  "private": true,
+  "lang": "Python",
+  "size": 13,
+  "desc": "Recursive hierarchical neuro-symbolic agent core: LLM proposes, deterministic verifier disposes. Lead-recovery starter.",
+  "updated": "2026-11-04"
+ },
+ {
+  "name": "RHNS-Architecture",
+  "tier": "CONTROL",
+  "private": false,
+  "lang": "Python",
+  "size": 122,
+  "desc": "Recursive Hierarchical Network System \u2014 neuro-symbolic cognitive architecture by Garrett Carrol, Garcar Enterprise. Prior art established April 27, 2026.",
+  "updated": "2026-11-01"
+ },
+ {
+  "name": "saas-revenue-accelerator",
+  "tier": "CASH",
+  "private": false,
+  "lang": "Python",
+  "size": 3,
+  "desc": "Complete SaaS platform template with multi-tier subscriptions, usage-based billing, Stripe/PayPal/crypto integration, A/B testing, customer success automation. Launch revenue-generating SaaS in 48 hours.",
+  "updated": "2026-09-28"
+ },
+ {
+  "name": "secret-manager",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 23,
+  "desc": "Centralized secret health monitoring, gap detection, and rotation automation for Garcar Enterprise CI/CD infrastructure",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "security-sentinel-framework",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 8,
+  "desc": "Enterprise security automation with vulnerability remediation, zero-trust policies, compliance automation (SOC2/HIPAA/GDPR), secret management, penetration testing. Reduces security incidents by 95%.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "self-healing-infra",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 10,
+  "desc": "Closed-loop self-healing infrastructure: detect, classify, fix, verify, propagate (Terraform + Event-Driven Ansible + GitOps)",
+  "updated": "2026-10-17"
+ },
+ {
+  "name": "semantic-knowledge-nexus",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 1,
+  "desc": "Enterprise knowledge graph with vector embeddings and real-time semantic search across infinite data sources. AI-powered insights, automated knowledge discovery, and intelligent recommendations at petabyte scale.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "seo-content-factory",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 81,
+  "desc": "Automated SEO blog generator (50+ posts/day) - $22K/month",
+  "updated": "2026-10-12"
+ },
+ {
+  "name": "SINGULARITY-AGI-Research-Platform",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 13,
+  "desc": "\ud83e\udde0 BREAKTHROUGH: Artificial General Intelligence research platform. Self-improving neural architectures, consciousness simulation, multi-modal reasoning at human+ level. Ethical AI governance built-in. 2M+ lines of cutting-edge research code.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "smart-contract-auditor-ai",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 35,
+  "desc": "AI-powered smart contract vulnerability detection system - $25K/month revenue potential",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "sovereign-chat",
+  "tier": "CASH",
+  "private": false,
+  "lang": "HTML",
+  "size": 22,
+  "desc": "SovereignChat \u2014 mode-adaptive operator chat + $47 Lead Leak Audit offer. Garcar Enterprise.",
+  "updated": "2026-09-28"
+ },
+ {
+  "name": "stablecoin-protocol",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Solidity",
+  "size": 16,
+  "desc": "Full-stack stablecoin deployment with smart contracts, backend API, and frontend dashboard",
+  "updated": "2026-09-28"
+ },
+ {
+  "name": "stripe-payment-integration",
+  "tier": "CASH",
+  "private": false,
+  "lang": "Python",
+  "size": 9,
+  "desc": "Production-grade payment processing & subscription management",
+  "updated": "2026-09-28"
+ },
+ {
+  "name": "subscription-intelligence-engine",
+  "tier": "CASH",
+  "private": false,
+  "lang": null,
+  "size": 1,
+  "desc": "ML-powered subscription optimization with 95%+ churn prediction accuracy. Automated retention campaigns, LTV optimization, personalized upsells, payment recovery. Prevents 3-5% revenue loss automatically.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "supersecret",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 12,
+  "desc": "Stupid-simple, zero-leak secret management with unprecedented automation. Invisible input, encrypted vault, auto-injection, ghost clipboard.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "system-aura-core",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 0,
+  "desc": "The Intelligence Core of the Immutable Wealth System",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "systems-master-hub",
+  "tier": "CONTROL",
+  "private": false,
+  "lang": "Python",
+  "size": 1129,
+  "desc": "\ud83c\udfaf Master Hub: Complete Enterprise Ecosystem Organization | AUTOHELIX Quantum Systems + NWU Protocol + GARCAR + All 89 Repositories | $100M+ Stack Documentation & Architecture",
+  "updated": "2026-11-03"
+ },
+ {
+  "name": "termux-automation-app",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 1,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "termux-automation-docs",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 0,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "termux-automation-scripts",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Shell",
+  "size": 22,
+  "desc": "Complete collection of Termux-based automation scripts for mobile deployment, crypto integration, and autonomous income systems",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "termux-automation-service",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 0,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "termux-workspace-sync",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 6,
+  "desc": "Complete Termux workspace synchronization and mobile development environment with automated GitHub integration",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "THE-FORGE",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 122,
+  "desc": "THE FORGE v3.0 \u2014 Cognitive Economic Control System. State \u2192 Perception \u2192 Prediction \u2192 Decision \u2192 Action \u2192 Outcome \u2192 Learning. Closed-loop capital allocation with multi-horizon utility, experiment ledger, and causal memory.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "thinking-architect",
+  "tier": "CODE",
+  "private": true,
+  "lang": "TypeScript",
+  "size": 2993,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "TITAN-Autonomous-Business-Empire",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 41,
+  "desc": "\ud83c\udfc6 MEGA-SYSTEM: Fully autonomous business empire generating $50M+ ARR. Self-replicating companies, AI CEOs, automated M&A, financial trading, real estate investment. Zero human intervention. 500,000+ lines of production code.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "tree-of-life",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 0,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "tree-of-life-core",
+  "tier": "CODE",
+  "private": false,
+  "lang": "Python",
+  "size": 13592,
+  "desc": "\ud83c\udf33 Unified NWU Protocol Architecture - 16 AI Systems Merged into One Living Organism | Blockchain + AI + Autonomous Agents",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "tree-of-life-master-integration",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 1,
+  "desc": "Master orchestration hub unifying 108+ enterprise systems into Tree of Life business platform - AI agents, blockchain, revenue automation, and seamless integration architecture",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "tree-of-life-minimal",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Shell",
+  "size": 9,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "tree-of-life-system",
+  "tier": "CODE",
+  "private": false,
+  "lang": "JavaScript",
+  "size": 1564,
+  "desc": "Multiplex AI Business Platform - Integrated GitHub, Linear, Notion & Perplexity ecosystem for unprecedented automation and intelligence",
+  "updated": "2026-11-04"
+ },
+ {
+  "name": "udcb-mars-implementation",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 50,
+  "desc": "UDCB Distributed Infrastructure Coordinator with async LLM batching, Elastic Lean fleet, virtual-loss MCTS, and graceful shutdown for neuro-symbolic proof search",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "ueep-bootstrap",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Shell",
+  "size": 6,
+  "desc": "UEEP Bootstrap Infrastructure Pipeline",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "ueep-frontend",
+  "tier": "STUB",
+  "private": false,
+  "lang": "HTML",
+  "size": 132,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "ueep-ha-system",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 19,
+  "desc": "UEEP Production High Availability System with automated GitHub Actions deployment - 99.9% uptime, complete monitoring, enterprise-grade",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "ULTIMATE-MASTER-SYSTEM",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 9,
+  "desc": "\ud83d\ude80 ULTIMATE: All 106+ repositories merged into one unstoppable autonomous AI empire. $100M+ ARR potential. Zero-human, self-evolving, revenue-generating mega-system.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "ultra-low-latency-ai-platform",
+  "tier": "STUB",
+  "private": true,
+  "lang": "HCL",
+  "size": 60,
+  "desc": "Enterprise ultra-low latency AI infrastructure",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "unprecedented-autonomous-revenue-os",
+  "tier": "CASH",
+  "private": false,
+  "lang": "Python",
+  "size": 97,
+  "desc": "Unprecedented legitimate multi-agent autonomous OS for business infrastructure & revenue generation. Zero-human ops, Stripe-native, SOC2-ready, compliance-first. Builds real value for SMBs (contractors, local services) while generating sustainable MRR.",
+  "updated": "2026-10-03"
+ },
+ {
+  "name": "vault-secrets-manager",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Shell",
+  "size": 15,
+  "desc": "HashiCorp Vault deployment for centralized secrets management across all Garcar/MARS systems",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "vertical-dominator-os",
+  "tier": "CODE",
+  "private": true,
+  "lang": "Python",
+  "size": 252,
+  "desc": "Vertical Dominator OS \u2014 Autonomous Enterprise Operating System built on Garcar Enterprise, RHNS, BioForge Revenue Spine, and Zero-Human Governance. Multi-vertical orchestration layer ready for licensing.",
+  "updated": "2026-10-28"
+ },
+ {
+  "name": "zero",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 11,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "zero-human-ai-platform",
+  "tier": "STUB",
+  "private": false,
+  "lang": null,
+  "size": 11,
+  "desc": "Enterprise-Grade Autonomous AI with Cryptographic Governance - Production-ready platform that builds businesses autonomously",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "zero-human-approval-dashboard",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 0,
+  "desc": "UEEP Component: zero-human-approval-dashboard",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "zero-human-empire",
+  "tier": "STUB",
+  "private": true,
+  "lang": "Python",
+  "size": 106,
+  "desc": "",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "zero-human-enterprise-grid",
+  "tier": "CASH",
+  "private": false,
+  "lang": "Python",
+  "size": 87,
+  "desc": "The world's first self-building AI business platform. Creates, deploys, and monetizes AI products autonomously. $1.55M ARR potential.",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "zero-human-governance-core",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 48,
+  "desc": "Zero-Human AI Governance Core - Cryptographic governance and orchestration for autonomous AI agents",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "zero-human-infra-as-code",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 0,
+  "desc": "UEEP Component: zero-human-infra-as-code",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "zero-human-orchestration",
+  "tier": "EMPTY",
+  "private": false,
+  "lang": null,
+  "size": 0,
+  "desc": "UEEP Component: zero-human-orchestration",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "zero-human-orchestrator",
+  "tier": "CONTROL",
+  "private": false,
+  "lang": "Python",
+  "size": 21,
+  "desc": "Central orchestration API for the Zero-Human Enterprise platform \u2014 deploys, monitors, and scales all systems autonomously",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "zero-human-platform-core",
+  "tier": "STUB",
+  "private": false,
+  "lang": "Python",
+  "size": 7,
+  "desc": "AI Business Automation Platform - LangChain/CrewAI Orchestration",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "zeus-dashboard",
+  "tier": "STUB",
+  "private": false,
+  "lang": "TypeScript",
+  "size": 49,
+  "desc": "Zeus \u2014 Garcar Enterprise Autonomous Control Dashboard | RHNS Cognitive Architecture",
+  "updated": "2026-09-20"
+ },
+ {
+  "name": "zeus-dashboard-72",
+  "tier": "CODE",
+  "private": true,
+  "lang": "TypeScript",
+  "size": 463,
+  "desc": "",
+  "updated": "2026-10-29"
+ }
+]
