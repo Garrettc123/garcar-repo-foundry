@@ -18,11 +18,12 @@ MAX_SEARCH_RESULTS = 1000
 PAGE_SIZE = 100
 OWNER = "Garrettc123"
 
-SECURITY = re.compile(r"auto.?merge|approval.?bypass|unauth|hmac|token|secrets?|webhook|rbac|permissions?|invoic|payout|security|fail.closed|outbound|fraud", re.I)
+SECURITY = re.compile(r"auto.?merge|approval.?bypass|auth.?bypass|unauth|credential|access.?control|hmac|token|secrets?|webhook|rbac|permissions?|invoic|payout|security|fail.closed|outbound|fraud", re.I)
 REVENUE = re.compile(r"checkout|callback|fulfill|delivery|first.sale|stripe|crm|lead|revenue|payment|customer|sales", re.I)
 CI = re.compile(r"ci\b|actions|startup.failure|runner|pytest|test|build|vercel 402", re.I)
 INTEGRATION = re.compile(r"mesh|sync|heartbeat|telemetry|worker|deploy|integration|architecture|nwu", re.I)
 CLOSED_LINEAR = {"done", "completed", "canceled", "cancelled", "duplicate", "archived"}
+GITHUB_ITEM_RE = re.compile(r"^https://github[.]com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+/(pull|issues)/[0-9]+$")
 
 
 def classify(title: str) -> tuple[str, str]:
@@ -80,12 +81,12 @@ def normalized_items(data: dict, kind: str) -> list[dict]:
             continue
         url = item.get("html_url")
         title = item.get("title")
-        if not isinstance(url, str) or not url.startswith("https://github.com/"):
+        if not isinstance(url, str) or not GITHUB_ITEM_RE.fullmatch(url):
             continue
         if not isinstance(title, str) or not title.strip():
             continue
         priority, reason = classify(title)
-        rows.append({"kind": kind, "url": url, "title": title.strip(),
+        rows.append({"kind": kind, "url": url, "title": " ".join(title.split()),
                      "priority": priority, "reason": reason,
                      "updated_at": item.get("updated_at"),
                      "repository": url.split("/")[4] if len(url.split("/")) > 4 else None,
@@ -122,7 +123,7 @@ def build_snapshot(prs: dict, issues: dict, linear: list[dict] | None = None) ->
         n = part.get("total_count")
         items = part.get("items")
         return (part.get("complete") is True and type(n) is int and
-                isinstance(items, list) and len({i.get("html_url") for i in items if isinstance(i, dict)}) == n)
+                isinstance(items, list) and all(isinstance(i, dict) and GITHUB_ITEM_RE.fullmatch(str(i.get("html_url", ""))) for i in items) and len({i["html_url"] for i in items}) == n)
     coverage = "COMPLETE_FOR_ACCESSIBLE_GITHUB_REPOS" if complete(prs) and complete(issues) else "PARTIAL"
     rows = normalized_items(prs, "github_pr") + normalized_items(issues, "github_issue") + normalize_linear(linear or [])
     order = {"P0_REVIEW_SECURITY": 0, "P1_REVENUE": 1, "P1_CI": 2,
