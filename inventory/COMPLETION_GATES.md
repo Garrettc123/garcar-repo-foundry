@@ -28,7 +28,7 @@ Status definitions: `UNINSPECTED` (no evidence), `SOURCE_REVIEW_ONLY` (code revi
 
 - `garcar-payments`: latest inspected Integration Health Check failed because both health URL secrets were unset; do not mark production healthy until endpoints and signing credentials are independently verified.
 - `garcar-lead-intake`: original branch accepted non-durable leads; see the isolated durability patch PR, and verify persistent volume, backups and privacy policy before production.
-- `garcar-repo-foundry`: current main kernel `/fulfill` returns a queued claim without durable persistence. Existing draft PR #1 proposes fail-closed semantics; do not stamp this unsafe kernel onto repositories as proof of fulfillment.
+- `garcar-repo-foundry`: source candidate kernel must fail closed at `/fulfill` without durable payment/fulfillment. A separately reviewed CI-tested patch implements HTTP 503; this does **not** integrate a real fulfillment service. Do not stamp these templates as evidence of production delivery.
 - `garcar-communication-bus`: current root inspection shows README only; no independently verified transport implementation.
 
 This release gate has no credentials, no external network calls, no production writes, no customer operations, and no mass PR creation.
