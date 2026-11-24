@@ -1,0 +1,125 @@
+{
+  "schema_version": "1.0.0",
+  "observed_at": "2026-11-05",
+  "audit_scope": "Read-only connected GitHub metadata, repository root listings and selected source files; not a complete source/security audit.",
+  "owner": "Garrettc123",
+  "repository_count": 8,
+  "candidate_canonical_roles": {
+    "fleet_inventory": "garcar-repo-foundry",
+    "commercial_orchestration": "garcar-revenue-os",
+    "payment_capture_and_fulfillment": "garcar-payments",
+    "experimental_agent_runtime": "rhns-agent-core",
+    "digital_product_building": "garcar-product-factory",
+    "customer_offer_pages": "garcar-funnel",
+    "legacy_reasoning_api": "mars-api",
+    "communication_transport": "UNSELECTED—garcar-communication-bus lacks inspected executable implementation"
+  },
+  "release_gate": "BLOCKED",
+  "repositories": [
+    {
+      "name": "garcar-repo-foundry",
+      "base_sha": "2a481272a2467cf1b7dd7084c2605e114bc5e8c7",
+      "default_branch": "main",
+      "visibility": "public",
+      "source_files_inspected": [
+        "kernel/app.py",
+        "tests/test_kernel.py"
+      ],
+      "finding": "Original /fulfill returned queued without durable persistence; proposed patch in separate review branch.",
+      "evidence_status": "source_inspected_not_runtime_tested"
+    },
+    {
+      "name": "garcar-revenue-os",
+      "base_sha": "65bdd0539ff6804d0b06d7b9617e38b80364e59c",
+      "default_branch": "main",
+      "visibility": "private",
+      "source_files_inspected": [
+        "src/index.ts",
+        "src/stripe/webhook.ts",
+        "src/revenue/loop.ts",
+        "src/governance/approval.ts",
+        "src/governance/executor.ts",
+        "src/finance/payment-log.ts",
+        "tests/governance.test.ts"
+      ],
+      "finding": "Contains Stripe, CRM, evidence and governance modules; real settlement/fulfillment not validated.",
+      "evidence_status": "source_inspected_not_runtime_tested"
+    },
+    {
+      "name": "rhns-agent-core",
+      "base_sha": "1e4f9efdb430249fa18c3a8fafdf880b2b08b82d",
+      "default_branch": "main",
+      "visibility": "private",
+      "source_files_inspected": [
+        "rhns/verifier.py"
+      ],
+      "finding": "Deterministic outreach-verification code found; full agent behavior and deployment unverified.",
+      "evidence_status": "source_inspected_not_runtime_tested"
+    },
+    {
+      "name": "garcar-product-factory",
+      "base_sha": "892e1626ade4b3675618dd3a6c6bbf2c74420941",
+      "default_branch": "main",
+      "visibility": "private",
+      "source_files_inspected": [
+        "marketplace/app.py"
+      ],
+      "finding": "Own checkout/catalog implementation overlaps with garcar-payments; code gates reviewed, no live proof.",
+      "evidence_status": "source_inspected_not_runtime_tested"
+    },
+    {
+      "name": "garcar-payments",
+      "base_sha": "4bcb86d765ee156ec4d508190e14667a6967dd2d",
+      "default_branch": "main",
+      "visibility": "public",
+      "source_files_inspected": [
+        "app/main.py",
+        "app/db.py",
+        "app/worker.py",
+        "app/stripe_sig.py",
+        "app/settings.py"
+      ],
+      "finding": "Canonical candidate payment worker with durable event/job schema and Stripe API re-verification; open hardening draft PR #19.",
+      "evidence_status": "source_inspected_branch_ci_red"
+    },
+    {
+      "name": "mars-api",
+      "base_sha": "76d8e8ac36bb82e7e4b7b4b4d96e30d6f5586d07",
+      "default_branch": "main",
+      "visibility": "public",
+      "source_files_inspected": [],
+      "finding": "RHNS policy and route source files present; detailed implementation review pending.",
+      "evidence_status": "root_inspected_only"
+    },
+    {
+      "name": "garcar-funnel",
+      "base_sha": "c9818a359934ac843c61cad2aee0bc99ddd62fbf",
+      "default_branch": "master",
+      "visibility": "private",
+      "source_files_inspected": [
+        "order.html"
+      ],
+      "finding": "Order intake page openly labels payment unverified and posts user order context to an external notification channel; privacy/security review required.",
+      "evidence_status": "source_inspected_not_runtime_tested"
+    },
+    {
+      "name": "garcar-communication-bus",
+      "base_sha": "6b0ce7d2ba0a1aa76c264faf31a538bf1403550a",
+      "default_branch": "main",
+      "visibility": "private",
+      "source_files_inspected": [
+        "README.md"
+      ],
+      "finding": "No executable source discovered at repository root; no production messaging claim.",
+      "evidence_status": "root_inspected_only"
+    }
+  ],
+  "unresolved": [
+    "Live Stripe payouts, real settled payments and refunds not verified.",
+    "SKU and pricing mismatch across systems needs single catalog owner.",
+    "Actual prior Proof Workbench/Capability Kernel ZIP source not provided for merge.",
+    "GitHub Actions failure on payments branch, including baseline run.",
+    "No reviewed end-to-end test-mode checkout-to-delivery proof.",
+    "No repo deletion or merge performed."
+  ]
+}

@@ -4,7 +4,7 @@ from __future__ import annotations
 import os
 from datetime import datetime, timezone
 
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from fastapi.responses import RedirectResponse
 from pydantic import BaseModel
 
@@ -89,18 +89,11 @@ def root():
 
 @app.post("/fulfill")
 def fulfill(body: FulfillmentIn):
-    sku = next((s for s in SKUS if s["id"] == body.sku_id), None)
-    if sku is None:
-        return {"ok": False, "error": "unknown_sku", "allowed": [s["id"] for s in SKUS]}
-    return {
-        "ok": True,
-        "status": "queued",
-        "system": SYSTEM_ID,
-        "sku": sku,
-        "buyer_email": body.buyer_email,
-        "shop_name": body.shop_name,
-        "vertical": body.vertical,
-        "stripe_session_id": body.stripe_session_id,
-        "sla_hours": sku["sla_hours"],
-        "note": "Kernel accepted the job. Wire SMTP in the CASH receiver, not here.",
-    }
+    # The Foundry satellite is not a payment authority and has no durable queue.
+    # Never attest acceptance, queued work, or customer delivery from this route.
+    # Canonical fulfillment belongs in garcar-payments after a signed Stripe
+    # webhook and a server-to-server verification of a paid Checkout Session.
+    raise HTTPException(
+        status_code=503,
+        detail="Foundry has no fulfillment queue; use the verified garcar-payments workflow.",
+    )
