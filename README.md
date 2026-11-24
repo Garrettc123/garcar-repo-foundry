@@ -1,10 +1,14 @@
 # Garcar Repo Foundry
 
-Builds every repo Garrettc123 owns into a **runnable kernel**.
+Provides candidate starter kernels and a read-only completion evidence gate. **A generated kernel, README, or listed repository is not evidence that a system is runnable, deployed, secure, profitable, or production-ready.**
 
-This is not another $50M ARR README. It is the compiler for the fleet.
+## Fleet inventory (historical snapshots)
 
-## Fleet snapshot (2026-09-27)
+The latest incorporated dated enumeration is **329 repositories, observed 2026-11-22**, from `inventory/observed_2026-11-22.json`. All runtime states in that inventory were **unverified**. `scripts/completion_matrix.py` produces one fail-closed review state per repository; see `inventory/COMPLETION_GATES.md`.
+
+The tier breakdown below is an **older September 27 snapshot**, not the current total.
+
+### September 27, 2026 snapshot
 
 | Tier | Count | Meaning |
 |---|---|---|
@@ -15,16 +19,16 @@ This is not another $50M ARR README. It is the compiler for the fleet.
 | EMPTY | 88 | No language, almost no bytes |
 | **Total** | **284** | Owned by `Garrettc123` |
 
-Source of truth: [`inventory/FLEET.md`](inventory/FLEET.md) and [`inventory/repos.json`](inventory/repos.json).
+Old tier references: [`inventory/FLEET.md`](inventory/FLEET.md) and [`inventory/repos.json`](inventory/repos.json). They do not supersede the dated 329-repository inventory.
 
 ## What "build every repo" means here
 
-1. Every repo gets the same contract: `/health`, `/sku`, `/offer`, `/fulfill`.
-2. CASH repos get the live $47 / $497 / $1,497 Stripe links, not fake pipeline numbers.
-3. STUB and EMPTY repos get a kernel stamp instead of a new mythology file.
+1. A **candidate kernel** can expose standard routes; this does not make each repository deployable or certify fulfillment.
+2. Checkout references require independent active Stripe-account and price verification; do not copy historical links into production as proof of a payable SKU.
+3. STUB and EMPTY repositories remain incomplete until source, tests, deployment/artifact and actual acceptance evidence exist.
 4. CONTROL repos stay the orchestration layer. Do not flatten them into landing pages.
 
-## Live SKUs
+## Historical SKU references (unverified against active payment account)
 
 | Offer | Price | Checkout |
 |---|---|---|
@@ -32,7 +36,7 @@ Source of truth: [`inventory/FLEET.md`](inventory/FLEET.md) and [`inventory/repo
 | Revenue Recovery Sprint | $497/wk | https://buy.stripe.com/aFa8wPdjfggO3QDcS743S1F |
 | AI Growth Engine | $1,497/mo | https://buy.stripe.com/9B63cv4MJ9Sq1Iv19p43S1E |
 
-Storefront: https://garrettc123.github.io/
+Historical storefront reference: https://garrettc123.github.io/ — deployment and commerce flow not verified by this README.
 
 Do not charge the live $47 link with card 4242.
 
@@ -46,7 +50,7 @@ curl localhost:8080/health
 curl localhost:8080/sku
 ```
 
-## Stamp a target repo
+## Generate a local candidate stamp (not a deployment)
 
 ```bash
 python scripts/stamp.py --repo NAME --dry-run
@@ -54,3 +58,5 @@ python scripts/stamp.py --repo NAME
 ```
 
 `scripts/stamp.py` refuses to stamp protected cash/control repos without `--force`.
+
+**Safety:** The current main-branch foundry kernel's `/fulfill` response is not proof of durable acceptance. Existing draft PR #1 proposes disabling false success responses. Do not deploy stamped kernels or execute checkout links without reconciling those gates.

@@ -1,0 +1,2652 @@
+{
+  "schema_version": 1,
+  "observed_date": "2026-11-22",
+  "source": "authenticated GitHub installed-repository search, user:Garrettc123, pages 1-4",
+  "scope": "repositories accessible to current GitHub installation; not evidence of deployed or running agents",
+  "owner": "Garrettc123",
+  "repository_count": 329,
+  "heuristic_lane_counts": {
+    "unassessed": 229,
+    "control_candidate": 51,
+    "acquisition_candidate": 34,
+    "commerce_candidate": 8,
+    "payments_candidate": 7
+  },
+  "agents_executed": 0,
+  "agents_execution_verification": "not_performed",
+  "payment_verification": "not_performed",
+  "repositories": [
+    {
+      "repository": "Garrettc123/aan-autonomous-agent-network",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ai-agent-platform",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "master",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ai-business-automation-tree",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ai-business-platform",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ai-co-founder",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ai-consulting-automaton",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ai-control",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "master",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ai-infrastructure-architect-master",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ai-ops-studio",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ai-orchestrator",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ai-powered-deal-desk",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ai-sales-engine",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ai-swarm-crypto-bounty-system",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ai-training-data-factory",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ai-wealth-ecosystem",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/all-in-one-auto-acquisition-system",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/APEX-AI-ENGINE",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/apex-revenue-system",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/APEX-Universal-AI-Operating-System",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/apex-zero-human-orchestrator",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/api-key-automaton",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ARCHITECT_Pro-Enterprise",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/assets-library-2025",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/async-automation-framework",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/async-automation-workflows",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/asynchronous-automation-framework",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/atlas-agents",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/atlas-dashboard",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/atlas-infrastructure",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/atlas-integrations",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/atlas-orchestration",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/AutoGenesis-AI-Platform",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/autohelix",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/automated-sales-outreach",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/automation-client-retainer",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/automation-frontend-dashboard",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/autonoma-agents",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/autonomous-butler-core",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/autonomous-event-mesh",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/autonomous-hub",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/autonomous-income-deployment",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/autonomous-orchestrator-core",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/autonomous-revenue-architect",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/autonomous-revenue-ops",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/autonomous-self-healing",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/autonomous-support-ai",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/autonomous-zero-touch-deploy",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/believe-revenue-site",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/callback-clock",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/CashRun",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/churn-predictor-ai-backend",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/client-onboarding-platform",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/code-snippets-vault",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/cognitive-api-marketplace",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/content-engine-ai-backend",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/continuum-agents",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/conversational-ai-engine",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/cuddly-octo-telegram",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/customer-churn-predictor",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/customer-intelligence-branch",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/deal-desk-ai-backend",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/deal-desk-ai-frontend",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/deal-desk-console",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/deal-desk-core",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/deal-desk-ops",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/defender-os",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/defi-yield-aggregator",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/devops-portfolio",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/dfw-lead-audit",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/distributed-job-orchestration-engine",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/document-intelligence-hub",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/documentation-hub",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ecommerce-microservices",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "master",
+      "candidate_lane": "commerce_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/enterprise-ai-deployment",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/enterprise-ai-grid",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/enterprise-automation-system",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/enterprise-cicd-foundation",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/enterprise-data-mesh-platform",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/enterprise-devops-platform",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "master",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/enterprise-feature-flag-system",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/enterprise-grade-software",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/enterprise-mlops-platform",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/enterprise-pilot-programs",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/enterprise-proposal-generator",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/enterprise-unified-platform",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/evals",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/eve-chat-template",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/fastapi",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/fastapi.",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/fulfillment-service",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/Full-front-end-",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-299-audit",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-acquisition",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/GARCAR-AI-GOVERNANCE",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-alpha-os",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-apex-nexus",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-apk",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-arbitrage",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/GARCAR-AUDIT-LEDGER",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-audit-trail",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-autonomous-revenue-engine",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-autonomous-wealth-system",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/GARCAR-BACKUP-VAULT",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-base",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/GARCAR-BOARD-PORTAL",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-business-continuity",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-command-center",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-command-fabric",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-command-plane",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-communication-bus",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/GARCAR-CONTRACT-AI",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-contract-automation",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-control-plane",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-corporate-governance",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/GARCAR-DATA-PRIVACY",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-data-room",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-data-sovereignty",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-deploy-engine",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/GARCAR-DEPLOY-SHIELD",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-emergency-payments",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "payments_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-enablement",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-enterprise-os-core",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-enterprise-os-docs",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-enterprise-os-infra",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-enterprise-os-services",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-enterprise-os-ui",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-enterprise-production",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "commerce_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-enterprise-sync-core",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/Garcar-enterprise-system-front-1",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-financial-controls",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/GARCAR-FINANCIAL-CORE",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-fs-cashpath-20261117",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "payments_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-fs-fulfill-20261117",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-fs-intake-20261117",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-fs-orchestrator-20261117",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-fs-proofseal-20261117",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-funnel",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "master",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-gdpr-ccpa-engine",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/GARCAR-HR-SYSTEM",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-identity-access",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/GARCAR-IDENTITY-IAM",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/GARCAR-INCIDENT-CORE",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-incident-response",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-insurance-automation",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-integrations-hub",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/GARCAR-IP-REGISTRY",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-ip-vault",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-landing",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "master",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-landing-free",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-lead-intake",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-legal-compliance-shield",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-litigation-tracker",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/GARCAR-MA-TRACKER",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/GARCAR-NEXUS-COMPLIANCE",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-niche-revenue-engine",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-operator-fabric",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-payment-loop",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "payments_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-payments",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "payments_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-private-control-os",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-private-operator-apk",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-product-factory",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "commerce_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-proofdesk",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-qih-core",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-regulatory-monitor",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-repo-foundry",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-revenue-loop",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/GARCAR-REVENUE-OPS",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-revenue-os",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-revenue-services",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-revenue-wizard",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-rhns",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-rhns-core",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-rhns-edge",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/GARCAR-RISK-ENGINE",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-secrets-vault",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/GARCAR-SECURITY-OPS",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-shopify-app",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "commerce_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-showroom",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-singularity-grid",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-soc2-framework",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-sovereign-control-plane",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-stack-registry",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "master",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-star",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-storefront",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "master",
+      "candidate_lane": "commerce_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-tax-automation",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-treasury-management",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "payments_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-universal-diamond-20261117",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/GARCAR-VAULT-SECRETS",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/GARCAR-VENDOR-MGMT",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-vendor-risk",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garcar-venture-vehicle",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garrettc1",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/Garrettc123",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/Garrettc123.github.io",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garrettc2",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garrettc3",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garrettc4",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/garrettc5",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/genesis-consciousness-deploy",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/gitops-rhns",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/gumroad",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/gwc1",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/haikus-for-codespaces",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/hyper-automation-factory",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/hypervelocity-orchestrator",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/infrastructure-code-architect",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/infrastructure-templates",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/intelligent-ci-cd-orchestrator",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/intelligent-customer-data-platform",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/iot-analytics-pipeline",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "master",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/lead-enrichment-engine",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/lead-leak-audit",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/legal-compliance-orchestrator",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/living-infrastructure-brain",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/machine-payments",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "payments_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/marketing-automation-branch",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/mars-ai-debugger",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/mars-api",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/mars-benchmark-research",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/mars-production",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "commerce_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/master-deployment-auto-deploy-revenue",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/MASTER-Integration-Hub",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/meta-orchestration-engine",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ml-fraud-detection",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "master",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/mobile-builds-catalog",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "commerce_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/mobile-nexus-dashboard",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/monarch-nexus-core",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/monarch-nexus-v2",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/multimodal-input-api",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/napoleon-hill-success-system",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/neural-code-synthesizer",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/neural-mesh",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/neural-mesh-pipeline",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/NEXUS-AI-CORE",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/NEXUS-Master-Orchestration-Hub",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/NEXUS-Mobile-Command-Center",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/NEXUS-Quantum-Intelligence-Framework",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/nexus-sync-pipeline",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "master",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/nexusai-platform",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/nwu-cashflow-model",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "master",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/nwu-data-monetization",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/nwu-protocol",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/observability-intelligence-platform",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/paleontology-analysis-tools",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/perfect-customer-acquisition-system",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/phone-backend-system-v2",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/pi-control-plane",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/Pipeline-A.I",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/pixel-control-hub",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/pixel-perfect-preview",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/pixel-perfect-preview-4595e5bb",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/pocket-revenue-ai-deploy",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/portfolio",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/portfolio-website",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/predictive-infrastructure-optimizer",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/private-acquisition-systems",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/private-system-01-autonomous-revenue-intelligence",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/private-system-02-legal-compliance-shield",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/private-system-03-wealth-protection-vault",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/private-system-04-intellectual-property-fortress",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/private-system-05-personal-security-operations",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/process-copilot",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/product-development-branch",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "commerce_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/PROMETHEUS-Global-Infrastructure-Brain",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/proof-forge-os",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/prospect-partner-ai",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/quantum-neural-synthesizer",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/railway-orchestrator",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/real-time-decision-engine",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/real-time-streaming-analytics",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/remix-of-visual-landing-page-website-template",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/revenue-agent-system",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/revenue-automation-organ",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/revenue-intelligence-engine",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/revenue-orchestrator",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/revgarcar-acquisition",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/rhns-agent-core",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/RHNS-Architecture",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/saas-revenue-accelerator",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/secret-manager",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "master",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/security-sentinel-framework",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/self-healing-infra",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/semantic-knowledge-nexus",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/seo-content-factory",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/SINGULARITY-AGI-Research-Platform",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/smart-contract-auditor-ai",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/sovereign-chat",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/stablecoin-protocol",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/stripe-payment-integration",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "payments_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/subscription-intelligence-engine",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/supersecret",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/system-aura-core",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/system-help",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/systems-master-hub",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/termux-automation-app",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/termux-automation-docs",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/termux-automation-scripts",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/termux-automation-service",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/termux-workspace-sync",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/THE-FORGE",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/thinking-architect",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/TITAN-Autonomous-Business-Empire",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/tree-of-life",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/tree-of-life-core",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/tree-of-life-master-integration",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/tree-of-life-minimal",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "master",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/tree-of-life-system",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/udcb-mars-implementation",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ueep-bootstrap",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ueep-frontend",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ueep-ha-system",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ULTIMATE-MASTER-SYSTEM",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/ultra-low-latency-ai-platform",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/unprecedented",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/unprecedented-autonomous-revenue-os",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "acquisition_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/vault-secrets-manager",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/vertical-dominator-os",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/zero",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/zero-human-ai-platform",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/zero-human-approval-dashboard",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/zero-human-empire",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/zero-human-enterprise-grid",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/zero-human-governance-core",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/zero-human-infra-as-code",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/zero-human-orchestration",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/zero-human-orchestrator",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "control_candidate",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/zero-human-platform-core",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/zeus-dashboard",
+      "visibility": "public",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    },
+    {
+      "repository": "Garrettc123/zeus-dashboard-72",
+      "visibility": "private",
+      "archived": false,
+      "default_branch": "main",
+      "candidate_lane": "unassessed",
+      "runtime_state": "unverified"
+    }
+  ]
+}

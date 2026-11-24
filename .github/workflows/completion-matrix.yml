@@ -1,0 +1,38 @@
+name: Fleet Completion Evidence Gate
+on:
+  push:
+    paths:
+      - "scripts/completion_matrix.py"
+      - "tests/test_completion_matrix.py"
+      - "inventory/observed_2026-11-22.json"
+      - ".github/workflows/completion-matrix.yml"
+  pull_request:
+    paths:
+      - "scripts/completion_matrix.py"
+      - "tests/test_completion_matrix.py"
+      - "inventory/observed_2026-11-22.json"
+      - ".github/workflows/completion-matrix.yml"
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run offline evidence gate tests
+        run: python -m unittest discover -s tests -p 'test_completion_matrix.py' -v
+      - name: Build dated 329-repository truth matrix
+        run: |
+          python scripts/completion_matrix.py --snapshot inventory/observed_2026-11-22.json --output /tmp/garcar-fleet-matrix.json
+          python - <<'PY'
+          import json
+          with open('/tmp/garcar-fleet-matrix.json') as f:
+              matrix = json.load(f)
+          assert matrix["repository_count"] == 329
+          assert matrix["production_ready_count_confirmed"] == 0
+          assert len(matrix["repositories"]) == 329
+          print("Inventory parsed; production readiness remains unverified until independent checks.")
+          PY
