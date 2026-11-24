@@ -20,7 +20,7 @@ def build_matrix(snapshot: dict, checked: dict | None = None) -> dict:
         raise ValueError("repositories array is required")
     if snapshot.get("repository_count") != len(rows):
         raise ValueError("inventory count mismatch; refuse incomplete evidence")
-    observed = snapshot.get("observed_at_utc")
+    observed = snapshot.get("observed_at_utc") or snapshot.get("observed_date")
     if not isinstance(observed, str):
         raise ValueError("inventory observation timestamp required")
     datetime.fromisoformat(observed.replace("Z", "+00:00"))
@@ -65,7 +65,8 @@ def build_matrix(snapshot: dict, checked: dict | None = None) -> dict:
         raise ValueError("evidence for repos not in snapshot: " + ",".join(unexpected[:5]))
     result.sort(key=lambda item: item["repository"].casefold())
     return {
-        "snapshot_observed_at_utc": observed,
+        "snapshot_observed": observed,
+        "snapshot_observed_precision": "date" if len(observed) == 10 else "datetime",
         "scope": "dated inventory; URL presence is NOT CI, runtime or sale verification",
         "repository_count": len(result),
         "status_counts": dict(Counter(row["status"] for row in result)),
